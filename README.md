@@ -14,7 +14,7 @@ My name is Benjamin, but I prefer to be called Lira. I'm 13 years old and curren
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo"/>
 
-<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 
 ## :point_down: About Me:
 
