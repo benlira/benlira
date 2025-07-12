@@ -4,17 +4,11 @@ My name is Benjamin, but I prefer to be called Lira. I'm 13 years old and curren
 
 ## :computer: Right now, I'm learning:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=43&color=ffffff" alt="html-logo"/>  <img src="https://icongr.am/devicon/css3-original.svg?size=43&color=ffffff" alt="css-logo"/>
 
 ## :clipboard: And I will learn:
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=ffffff" alt="javascript-logo"/> <img src="https://icongr.am/devicon/nodejs-original.svg?size=43&color=ffffff" alt="node.js-logo"/> <img src="https://icongr.am/devicon/react-original.svg?size=43&color=ffffff" alt="react-logo"/> 
 
 ## :point_down: About Me:
 
